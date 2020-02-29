@@ -29,18 +29,18 @@ cd Downloads/SquadParkingProblem/src
 - Compile the program(ParkingClient.java) using javac compiler
 	
 	example command: 
-	```
-	javac ParkingClient.java
-	```
+```
+javac ParkingClient.java
+```
 	this will compile the code and create .class file
 
 - Run the compiled program using java interpreter and pass the input file(input.txt) as argument
 	
 	example command: java ParkingClient "input file name" 
 	
-	```
-	java ParkingClient input.txt
-	```
+```
+java ParkingClient input.txt
+```
 
 - Use the exit command in input file to exit the program
 
