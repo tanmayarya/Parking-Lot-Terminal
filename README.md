@@ -3,7 +3,9 @@
 Instructions to execute the project:
 
 - Install java on your machine
+	
 	Refer the following links to install java
+
 	For mac: https://java.com/en/download/help/mac_install.xml 
 		or refer this video: https://www.youtube.com/watch?v=s5g59Z6C5Ts
 	
@@ -11,10 +13,12 @@ Instructions to execute the project:
 		or refer this video: https://youtu.be/wxZ-R7XWWBs
 
 - Download or clone the project
+
 	link: https://github.com/tanmayarya/SquadParkingProblem
 
 
 - Open terminal, Change the directory to src folder of the downloaded project
+	
 	example command: 
 ```
 cd Downloads/SquadParkingProblem/src
@@ -23,6 +27,7 @@ cd Downloads/SquadParkingProblem/src
 - Paste the input text file in this folder
 
 - Compile the program(ParkingClient.java) using javac compiler
+	
 	example command: 
 	```
 	javac ParkingClient.java
@@ -30,6 +35,7 @@ cd Downloads/SquadParkingProblem/src
 	this will compile the code and create .class file
 
 - Run the compiled program using java interpreter and pass the input file(input.txt) as argument
+	
 	example command: java ParkingClient "input file name" 
 	
 	```
