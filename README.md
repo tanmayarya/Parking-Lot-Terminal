@@ -40,7 +40,7 @@ javac Commands/*.java
 javac ParkingClient.java
 ```
 
-	this will compile the code and create .class file
+this will compile the code and create .class file
 
 - Run the compiled program using java interpreter and pass the input file(input.txt) as argument
 	
