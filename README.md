@@ -26,9 +26,16 @@ cd Downloads/SquadParkingProblem/src
 
 - Paste the input text file in this folder
 
-- Compile the program(ParkingClient.java) using javac compiler
-	
-	example command: 
+- Compile each file using javac compiler by the following commands:
+```
+javac Models/*.java
+```
+```
+javac Controller/*.java
+```
+```
+javac Commands/*.java
+```		
 ```
 javac ParkingClient.java
 ```
